@@ -1,11 +1,10 @@
-
-# total debt/total liabilities
-# current assets
-# current liabilities
-# EPS for last five years
-# market cap
-# book value
-
+# Exports the following financials to csv file:
+    # total debt/total liabilities
+    # current assets
+    # current liabilities
+    # EPS for last five years
+    # market cap
+    # book value
 
 import requests
 from bs4 import BeautifulSoup
